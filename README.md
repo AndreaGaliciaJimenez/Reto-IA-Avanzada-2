@@ -20,7 +20,9 @@ Arca Continental busca una solución de inteligencia artificial que genere conte
 ## Contenido dentro del repositorio
 **1. Propuesta inicial**
 
-**2. Codigo Generativo**
+**2. Protipo Llama2**
 
-**3. Aplicación**
+**3. Codigo Generativo**
+
+**4. Aplicación**
 
