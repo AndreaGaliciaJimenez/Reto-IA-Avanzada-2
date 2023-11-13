@@ -15,3 +15,12 @@ Arca Continental busca una solución de inteligencia artificial que genere conte
 - **Mejora Continua y MBI's:** Iteraremos para mejorar el modelo y ajustaremos la plataforma según las necesidades específicas de Arca Continental, optimizando la generación de contenido y la creatividad en las imágenes.
 
 - **Despliegue:** Planificaremos y ejecutaremos el despliegue de la plataforma en un ambiente de pre-producción, utilizando arquitectura en la nube y garantizando que esté accesible para el equipo de Arca Continental.
+
+
+## Contenido dentro del repositorio
+**1. Propuesta inicial**
+
+**2. Codigo Generativo**
+
+**3. Aplicación**
+
