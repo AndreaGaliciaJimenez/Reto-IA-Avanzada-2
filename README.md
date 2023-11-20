@@ -19,13 +19,17 @@ Arca Continental busca una solución de inteligencia artificial que genere conte
 
 ## Contenido dentro del repositorio
 **1. Propuesta inicial**
+
 Nuestra propuesta se basa en la creación de un Chatbot donde se pueda introducir información relevante de acuerdo al artículo promocional (precio, descuento, nombre del artículo, imagen del artículo o artículos) como input, y el póster promocional relativo al artículo como output. 
 
 **2. Protipo Llama2**
+
 Llama 2 es altamente adaptable y versátil, especializándose en la generación de texto para una amplia gama de aplicaciones. Elección ideal tanto para investigadores como para empresas que buscan generar contenido escrito de manera efectiva y personalizable.
 
 **3. Codigo Generativo**
+
 Luna Diffusion 2.5 se destaca por su capacidad para convertir descripciones textuales en arte y representaciones visuales, atrayendo a la comunidad artística y comercial. Es una herramienta innovadora que genera imágenes a partir de texto, siendo un avance significativo en esta tecnología.
 
 **4. Aplicación**
+
 Se utilizo Streamlit para crear una interfaz donde los usuarios pueden ingresar detalles de un producto promocional. Utiliza un modelo de inteligencia artificial llamado "StableDiffusionPipeline" para generar imágenes promocionales basadas en la entrada del usuario. Una vez que se ingresan los detalles, el código utiliza el modelo para crear y mostrar las imágenes en la interfaz de usuario.
