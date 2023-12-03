@@ -33,3 +33,15 @@ Luna Diffusion 2.5 se destaca por su capacidad para convertir descripciones text
 **4. Aplicación**
 
 Se utilizo Streamlit para crear una interfaz donde los usuarios pueden ingresar detalles de un producto promocional. Utiliza un modelo de inteligencia artificial llamado "StableDiffusionPipeline" para generar imágenes promocionales basadas en la entrada del usuario. Una vez que se ingresan los detalles, el código utiliza el modelo para crear y mostrar las imágenes en la interfaz de usuario.
+
+
+## Correcciónes
+
+Durante el proceso de esta asignatura tuvimos una sesion de retroalimentación previa a nuestra entrega final en la cual el socio formador, ARCA, nos dio su punto de vista para hacer ciertas mejoras o cambios al prototipo que teniamos en ese momento. A grandes rasgos, el cambio principal que se nos recomendo fue adaptar un poco mas las imagenes de cierta manera para que se presentaran como posters atractivos y no solo una foto de un producto, agregando contenido como una tienda de abarrotes, alguna escuela, o en si un contexto dentras del producto que se quiere promocionar.
+
+Para este cambio decidimos principalmente cambiar el modelo de generacion de imagenes por completo, pasando de usar DALL-E 2 a usar mejor LLAMA2 el cual es un modelo altamente adaptable para escenarios como los que se nos estaban pidiendo ya que tiene una mayor seleccion de imagenes al momento de crearlas.
+
+
+
+
+
